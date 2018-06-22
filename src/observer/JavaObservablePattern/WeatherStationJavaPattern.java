@@ -1,4 +1,4 @@
-package JavaObservablePattern;
+package observer.JavaObservablePattern;
 
 public class WeatherStationJavaPattern {
     public static void main(String[] args) {

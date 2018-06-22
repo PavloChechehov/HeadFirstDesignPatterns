@@ -1,6 +1,6 @@
-package JavaObservablePattern;
+package observer.JavaObservablePattern;
 
-import Observer1.DisplayElement;
+import observer.Observer1.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;
